@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
  <br>
-Author-Indrayani Bhosale
+Author-Indrayani Bhosale (Student)
